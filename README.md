@@ -14,7 +14,7 @@ Clean Database
 ![Image by Markdown](Example.png)
 
 
-![Image by Markdown](prototype.png)
+![Image by Markdown](prototype.PNG)
 
 ---
 **_FrameWorks Used:_**
